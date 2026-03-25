@@ -28,3 +28,8 @@ learn_leetcode/
 - Add your solutions under `solutions/`
 - Commit as you go
 
+## Current Solutions
+- `linked_list/delete_node.py` - delete a node when the head isn’t provided
+- `linked_list/remove_nth_node.py` - remove the nth node from the end
+- `linked_list/reverse_linked_list.py` - reverse a linked list
+
